@@ -95,6 +95,6 @@
 
 		init(menu, menuList, itemsMenu, burgerMenu)
 
-	};
+	}
 
 })()
